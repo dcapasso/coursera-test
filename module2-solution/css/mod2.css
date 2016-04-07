@@ -14,14 +14,15 @@ body {
 	margin-bottom: 15px;
 }
 
-.container {
+.row {
 	position: relative;
 	top: 50px;
+	width: 100%;
 }
 
 #ChickenPanel, #BeefPanel, #SushiPanel {
 	background-color: #999999;
-	margin: 0 5px 15px 5px;
+	margin-bottom: 15px;
 }
 
 #ChickenTitle, #BeefTitle, #SushiTitle {
@@ -38,16 +39,16 @@ body {
 }
 
 #ChickenTitle {
-	background-color: #D59898;
+	background-color: #FE8605;
 }
 
 #BeefTitle {
 	color: #FFFFFF;
-	background-color: #C14543;
+	background-color: #6441A5;
 }
 
 #SushiTitle {
-	background-color: #E5D198;
+	background-color: #39A5B1;
 }
 
 .PanelBodyText {
