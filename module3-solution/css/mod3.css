@@ -1,3 +1,49 @@
-.container h1{
-	float:left;
+*{
+	box-sizing: border-box;
 }
+
+#menu-collapasble ul li{
+	width: 100%;
+}
+
+.container{
+	padding: 0px;
+}
+
+#chicken, #beef, #sushi{
+	margin-bottom: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#chicken {
+	background-color: #CCCCCC;
+}
+
+#beef{
+	background-color: #BEEEEF;
+}
+
+#sushi{
+	background-color: #D8E796;
+}
+
+hr {
+	margin: 0;
+}
+
+h2{
+	margin: 0;
+	padding-bottom: 15px;
+}
+
+h3{
+	margin: 0;
+	padding: 0 0 5px 0;
+}
+
+/* For large devices */
+
+/* For small devices */
+
+/* For extra small devices */
